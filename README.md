@@ -4,21 +4,34 @@ A website that reads data from JSON file, and filters them based on user-input f
 
 ## Getting Started
 
-The website is deployed to: https://expediahotels0.herokuapp.com/
+The website is deployed to: https://expfinal.herokuapp.com/
 
 ### Prerequisites
 
 To run the project, All you need is to make sure you have Java JDK 8, an IDE for Java (preferably Intellij), maven-3, and Tomcat9.0.0.M20 installed on your local machine.
 
+### Running the app
 
-You will also need to install the following jars:
 
-gson-2.2.2.jar (http://www.java2s.com/Code/Jar/g/Downloadgson222jar.htm)
+Checkout all code using the command:
 
-java-json.jar (http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm)
+  git clone https://github.com/Ala1000/Expedia.git
+  
+Run the following command:
+ mvn clean package
 
-junit-4.10.jar (https://sourceforge.net/projects/junit/)
+  
+Open Intellij and choose Import Project.
 
+Select the directory where you cloned the project.
+
+From the "Import Project" From, select "Maven".
+
+Follow Intellij's form, then click finish.
+
+Make sure to mark main--> Java as "Sources root"
+
+Edit Run configurations to Run via Tomcat.
 
 ## Technologies used
 
@@ -32,9 +45,9 @@ All tests were passed.
 
 ## Deployment
 
-Website is deployed to Heroku and can be accessed via: https://expediahotels0.herokuapp.com/
+Website is deployed to Heroku and can be accessed via: https://expfinal.herokuapp.com
 
 ## Issues 
 The application is very simple, and it focuses more on the backend.
-Had some problems deploying to Heroku,, will be working on it.
+Deployed successfully, but still not working.
 
