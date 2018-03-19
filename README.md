@@ -15,10 +15,11 @@ To run the project, All you need is to make sure you have Java JDK 8, an IDE for
 
 Checkout all code using the command:
 
-  git clone https://github.com/Ala1000/Expedia.git
+  ```git clone https://github.com/Ala1000/Expedia.git```
   
 Run the following command:
- mvn clean package
+
+ ```mvn clean package```
 
   
 Open Intellij and choose Import Project.
@@ -38,7 +39,7 @@ Edit Run configurations to Run via Tomcat.
 For the project purposes, Java Servlet-JSP was used. 
 For testing on local machine, I used Tomcat9.0.0.M20.
 
-### And coding style tests
+### coding  tests
 
 Code tests can be found in com.Servlets.Test folder.
 All tests were passed.
