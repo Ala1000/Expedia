@@ -39,7 +39,7 @@ Edit Run configurations to Run via Tomcat.
 For the project purposes, Java Servlet-JSP was used. 
 For testing on local machine, I used Tomcat9.0.0.M20.
 
-### And coding style tests
+### coding  tests
 
 Code tests can be found in com.Servlets.Test folder.
 All tests were passed.
