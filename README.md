@@ -15,10 +15,11 @@ To run the project, All you need is to make sure you have Java JDK 8, an IDE for
 
 Checkout all code using the command:
 
-  git clone https://github.com/Ala1000/Expedia.git
+  ```git clone https://github.com/Ala1000/Expedia.git```
   
 Run the following command:
- mvn clean package
+
+ ```mvn clean package```
 
   
 Open Intellij and choose Import Project.
