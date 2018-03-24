@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e343896a-c0fe-4d86-a7c1-d1f09fa6cbe4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Expedia/.idea/artifacts/Expedia_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/.idea/artifacts/Expedia_war_exploded.xml" afterPath="$PROJECT_DIR$/../Expedia/.idea/artifacts/Expedia_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Expedia/.idea/misc.xml" />
+    <list default="true" id="e343896a-c0fe-4d86-a7c1-d1f09fa6cbe4" name="Default" comment="Update">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Expedia/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/Expedia.iml" afterPath="$PROJECT_DIR$/../Expedia/Expedia.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/pom.xml" afterPath="$PROJECT_DIR$/../Expedia/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/Procfile" afterPath="$PROJECT_DIR$/../Expedia/Procfile" />
     </list>
     <ignored path="$PROJECT_DIR$/../Expedia/out/" />
     <ignored path="$PROJECT_DIR$/../Expedia/target/" />
@@ -41,21 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Expedia/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="90" column="31" lean-forward="false" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
+            <state relative-caret-position="234">
+              <caret line="87" column="11" lean-forward="true" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Expedia/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="89" lean-forward="false" selection-start-line="0" selection-start-column="89" selection-end-line="0" selection-end-column="89" />
+              <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="74" selection-end-line="0" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -107,8 +103,8 @@
         <option value="$PROJECT_DIR$/../Expedia/src/com/Servlets/MainServlet.java" />
         <option value="$PROJECT_DIR$/../Expedia/src/main/java/com/Servlets/MainServlet.java" />
         <option value="$PROJECT_DIR$/../Expedia/README.md" />
-        <option value="$PROJECT_DIR$/../Expedia/Procfile" />
         <option value="$PROJECT_DIR$/../Expedia/pom.xml" />
+        <option value="$PROJECT_DIR$/../Expedia/Procfile" />
       </list>
     </option>
   </component>
@@ -927,7 +923,7 @@
       <workItem from="1520754790098" duration="20129000" />
       <workItem from="1521146968134" duration="48631000" />
       <workItem from="1521840503876" duration="1344000" />
-      <workItem from="1521894141394" duration="11158000" />
+      <workItem from="1521894141394" duration="11938000" />
     </task>
     <task id="LOCAL-00001" summary="Moved from jetty runner to Tomcat">
       <created>1521406781780</created>
@@ -999,7 +995,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521910683399</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update">
+      <created>1521921514627</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1521921514643</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1029,10 +1032,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95526000" />
+    <option name="totallyTimeSpent" value="96306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="0" width="1348" height="724" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1055,7 +1059,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293919" sideWeight="0.48447204" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293919" sideWeight="0.48447204" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3006757" sideWeight="0.48757765" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26552796" sideWeight="0.49118388" order="0" side_tool="false" content_ui="combo" />
@@ -1398,14 +1402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Expedia/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="89" lean-forward="false" selection-start-line="0" selection-start-column="89" selection-end-line="0" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Expedia/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1416,8 +1412,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Expedia/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="90" column="31" lean-forward="false" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
+        <state relative-caret-position="234">
+          <caret line="87" column="11" lean-forward="true" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Expedia/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="74" selection-end-line="0" selection-end-column="74" />
           <folding />
         </state>
       </provider>
