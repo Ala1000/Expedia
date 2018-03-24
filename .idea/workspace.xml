@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e343896a-c0fe-4d86-a7c1-d1f09fa6cbe4" name="Default" comment="Update">
+    <list default="true" id="e343896a-c0fe-4d86-a7c1-d1f09fa6cbe4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Expedia/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/Procfile" afterPath="$PROJECT_DIR$/../Expedia/Procfile" />
     </list>
@@ -51,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/../Expedia/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="74" selection-end-line="0" selection-end-column="74" />
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -923,7 +923,7 @@
       <workItem from="1520754790098" duration="20129000" />
       <workItem from="1521146968134" duration="48631000" />
       <workItem from="1521840503876" duration="1344000" />
-      <workItem from="1521894141394" duration="11938000" />
+      <workItem from="1521894141394" duration="12223000" />
     </task>
     <task id="LOCAL-00001" summary="Moved from jetty runner to Tomcat">
       <created>1521406781780</created>
@@ -1002,7 +1002,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521921514643</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1521922762556</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1521922762556</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1032,7 +1039,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96306000" />
+    <option name="totallyTimeSpent" value="96591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="0" width="1348" height="724" extended-state="0" />
@@ -1421,7 +1428,7 @@
     <entry file="file://$PROJECT_DIR$/../Expedia/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="74" selection-end-line="0" selection-end-column="74" />
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
