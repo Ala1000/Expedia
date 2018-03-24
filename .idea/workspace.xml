@@ -923,7 +923,7 @@
       <workItem from="1520754790098" duration="20129000" />
       <workItem from="1521146968134" duration="48631000" />
       <workItem from="1521840503876" duration="1344000" />
-      <workItem from="1521894141394" duration="12223000" />
+      <workItem from="1521894141394" duration="12858000" />
     </task>
     <task id="LOCAL-00001" summary="Moved from jetty runner to Tomcat">
       <created>1521406781780</created>
@@ -1009,7 +1009,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521922762556</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update">
+      <created>1521923015119</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1521923015119</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1039,11 +1046,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96591000" />
+    <option name="totallyTimeSpent" value="97226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="0" width="1348" height="724" extended-state="0" />
-    <editor active="true" />
+    <frame x="18" y="0" width="1348" height="724" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
