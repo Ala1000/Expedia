@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Expedia:war">
+    <output-path>$PROJECT_DIR$/../Expedia/target</output-path>
+    <root id="archive" name="Expedia-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Expedia:war exploded" />
+    </root>
+  </artifact>
+</component>
