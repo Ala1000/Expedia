@@ -89,6 +89,9 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <configuration>
                     <webXml>web\WEB-INF\web.xml</webXml>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
+                    <webappDirectory>${project.build.directory}/${project.artifactId}</webappDirectory>
+                    <warName>${project.artifactId}</warName>
                 </configuration>
             </plugin>
         </plugins>
