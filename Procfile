@@ -1,1 +1,1 @@
-web: java -jar target/Expedia.jar
+web: java -jar target/Expedia-1.0-SNAPSHOT.jar
