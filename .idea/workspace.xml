@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e343896a-c0fe-4d86-a7c1-d1f09fa6cbe4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Expedia/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/Procfile" afterPath="$PROJECT_DIR$/../Expedia/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expedia/pom.xml" afterPath="$PROJECT_DIR$/../Expedia/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../Expedia/out/" />
     <ignored path="$PROJECT_DIR$/../Expedia/target/" />
@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Expedia/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Expedia/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="92" column="67" lean-forward="false" selection-start-line="92" selection-start-column="67" selection-end-line="92" selection-end-column="67" />
+            <state relative-caret-position="180">
+              <caret line="97" column="29" lean-forward="false" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -113,8 +113,8 @@
         <option value="$PROJECT_DIR$/../Expedia/src/main/java/com/Servlets/MainServlet.java" />
         <option value="$PROJECT_DIR$/../Expedia/README.md" />
         <option value="$PROJECT_DIR$/../Expedia/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../Expedia/pom.xml" />
         <option value="$PROJECT_DIR$/../Expedia/Procfile" />
+        <option value="$PROJECT_DIR$/../Expedia/pom.xml" />
       </list>
     </option>
   </component>
@@ -166,24 +166,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="Plugins" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Expedia" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="compiler" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -1030,7 +1012,7 @@
       <workItem from="1521146968134" duration="48631000" />
       <workItem from="1521840503876" duration="1344000" />
       <workItem from="1521894141394" duration="13998000" />
-      <workItem from="1522007291688" duration="2132000" />
+      <workItem from="1522007291688" duration="4951000" />
     </task>
     <task id="LOCAL-00001" summary="Moved from jetty runner to Tomcat">
       <created>1521406781780</created>
@@ -1144,7 +1126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522009383143</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Update">
+      <created>1522009543012</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1522009543012</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1174,7 +1163,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100498000" />
+    <option name="totallyTimeSpent" value="103317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="0" width="1348" height="724" extended-state="0" />
@@ -1258,6 +1247,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
     <MESSAGE value="Moved from jetty runner to Tomcat" />
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
@@ -1585,18 +1575,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Expedia/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="92" column="67" lean-forward="false" selection-start-line="92" selection-start-column="67" selection-end-line="92" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Expedia/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Expedia/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="97" column="29" lean-forward="false" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
           <folding />
         </state>
       </provider>
